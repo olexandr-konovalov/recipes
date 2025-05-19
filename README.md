@@ -1,3 +1,3 @@
 # Collection of recipes
 
-Collection of my favourite recipes
+Collection of my favourite recipes.
