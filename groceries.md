@@ -1,4 +1,4 @@
 # Farmers Market
 * avocado £1.75
 * lime 1
-* salt 0.2
+* salt 0.3
