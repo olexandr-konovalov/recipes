@@ -1,5 +1,5 @@
-# Farmers Market
+# St Andrews Farmers Market
 
-* avocado £1.75
-* lime 1
-* salt 0.3
+* avocado £2.75
+* lime 2
+* salt 0.1
