@@ -1,4 +1,4 @@
-# Guacamole
+# Guacamole (family recipe)
 ## Ingredients
 * avocado (2)
 * lime (1)
