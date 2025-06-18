@@ -3,6 +3,6 @@
 * avocado (2)
 * lime (1)
 * salt (0.1)
-## Instructions
+## Preparation instructions
 * Peel the avocado
 * Squeeze some lime juice
