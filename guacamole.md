@@ -4,6 +4,7 @@
 * lime
 * salt
 ## Instructions
+Mix everything together
 
 ## Prices
 
