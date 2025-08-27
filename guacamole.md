@@ -4,8 +4,8 @@
 * lime
 * salt
 ## Instructions
-Peel the avocado
-Mix everything together
+- Peel the avocado
+- Mix everything together
 Enjoy!
 
 ## Prices
