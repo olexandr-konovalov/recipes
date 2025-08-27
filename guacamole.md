@@ -5,7 +5,7 @@
 * salt
 ## Instructions
 - Peel the avocado
-- squeeze the lime
+- Squeeze the lime
 - Mix everything together
 - Enjoy!
 
