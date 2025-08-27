@@ -12,3 +12,5 @@ Enjoy!
 
 See `groceries.md` for indicative prices
 
+Correct for inflation
+
