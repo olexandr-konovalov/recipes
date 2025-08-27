@@ -5,10 +5,10 @@
 * salt
 ## Instructions
 - Peel the avocado
+- Squeeze the lime
 - Mix everything together
 Enjoy!
 
-squeeze the lime
 ## Prices
 
 See `groceries.md` for indicative prices
