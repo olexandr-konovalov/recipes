@@ -1,4 +1,4 @@
 # Ingredients
 
-* Berries
+* Berries (blackberry, raspberry)
 * Sugar
