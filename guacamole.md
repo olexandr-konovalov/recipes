@@ -7,7 +7,7 @@
 - Peel the avocado
 - Squeeze the lime
 - Mix everything together
-Enjoy!
+- Enjoy!
 
 ## Prices
 
