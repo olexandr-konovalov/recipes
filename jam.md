@@ -1,4 +1,5 @@
 # Ingredients
 
-* Berries
+* Berries (strawberry, raspberry, ...)
 * Sugar
+
