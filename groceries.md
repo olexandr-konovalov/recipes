@@ -3,4 +3,4 @@
 * lime: 0.64
 * salt: 2 per kg
 
-It would alsob be great if we add some chilli pepper
+It would alsob be great if we add some red chilli pepper!
