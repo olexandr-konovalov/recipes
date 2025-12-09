@@ -2,9 +2,11 @@
 
 ## Ingredients
 * avocado
-* lime
+* lime/lemon
 * salt
 
 ## Instructions
 * peel the avocado
-* squeeze lime juice
+* squeeze lime/lemon juice
+* mash the avocado
+* mix together
