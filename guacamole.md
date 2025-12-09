@@ -7,4 +7,6 @@
 
 ## Instructions
 * peel the avocado
-* squeeze lime juice
+* squeeze lime or lemon juice
+* mash the avocado
+* mix together
