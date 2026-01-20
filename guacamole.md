@@ -9,4 +9,5 @@
 * mix and add salt
 
 
-Veronikas` change
+End of the recipe
+Very delicious guacamole!
