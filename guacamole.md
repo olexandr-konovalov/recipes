@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
 * avocado
-* lime
+* lemon or lime
 * salt
 ## Instructions
 * peel the avocado
@@ -9,5 +9,6 @@
 * mix and add salt
 
 
-End of the recipe
+End of the recipe.
 Very delicious guacamole!
+Enjoy!!!
