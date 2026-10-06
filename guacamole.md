@@ -4,6 +4,7 @@
 - Chilli pepper (optional)
 - Lime juice or lemon juice
 - Pepper
+- Salt
 
 ## Instructions
 - Peel the avocado
