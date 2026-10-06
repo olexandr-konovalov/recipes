@@ -7,5 +7,5 @@
 ## Instructions
 - Peel the avocado
 - Squeeze the lime
-- Mix evertying
+- Mix evertying (5 seconds)
 
