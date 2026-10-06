@@ -1,9 +1,8 @@
 # Ingredients
 
 - Avocado
-- Chilli pepper
-- Lime juice
-- Lemon
+- Chilli pepper (optional)
+- Lime juice or lemon juice
 
 ## Instructions
 - Peel the avocado
